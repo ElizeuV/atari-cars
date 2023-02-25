@@ -2,6 +2,6 @@
 
 > Freeway
 
-Divirata-se: elizeuv.github.io/atari-cars/
+Divirta-se: elizeuv.github.io/atari-cars/
 
 
